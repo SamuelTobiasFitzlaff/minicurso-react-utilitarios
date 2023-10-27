@@ -7,7 +7,7 @@ Este repositório tem a finalidade de auxiliar durante a apresentação do minic
 - [Página demo](https://minicurso.fitzlaff.com/)
 
 ```
-npm install react-router-dom @mui/material @mui/styled-engine-sc @mui/icons-material @emotion/react @emotion/styled axios react-hook-form react-cookie react-toastify styled-components@5.3.11
+npm install react-router-dom @mui/material @mui/styled-engine-sc @mui/icons-material @emotion/react @emotion/styled axios react-hook-form react-cookie react-toastify styled-components
 ```
 
 ### url da api: 
