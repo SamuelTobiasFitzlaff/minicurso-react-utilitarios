@@ -10,6 +10,11 @@ Este repositório tem a finalidade de auxiliar durante a apresentação do minic
 npm install react-router-dom @mui/material @mui/styled-engine-sc @mui/icons-material @emotion/react @emotion/styled axios react-hook-form react-cookie react-toastify styled-components@5.3.11
 ```
 
+### url da api: 
+```
+https://minicurso-api.vercel.app/api
+```
+
 ## Links uteis:
 - Node.js: [nodejs.org/en](https://nodejs.org/en)
 - Documentação vite: [vitejs.dev/guide](https://vitejs.dev/guide/)
