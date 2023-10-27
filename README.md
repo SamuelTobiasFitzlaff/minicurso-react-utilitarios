@@ -7,6 +7,7 @@ Este repositório tem a finalidade de auxiliar durante a apresentação do minic
 - [Página demo](https://minicurso.fitzlaff.com/)
 
 ## Links uteis:
+- Node.js: [nodejs.org/en](https://nodejs.org/en)
 - Documentação vite: [vitejs.dev/guide](https://vitejs.dev/guide/)
 - Favicon: [emojitofavicon.com](https://emojitofavicon.com/)
 - Documentação Material UI: [mui.com](https://mui.com/)
