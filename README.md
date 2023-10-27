@@ -2,7 +2,9 @@
 
 Este repositório tem a finalidade de auxiliar durante a apresentação do minicurso Aprendendo react.
 
-Link para a [Apresentação de slides](https://bpluscombr-my.sharepoint.com/:p:/g/personal/samuel_fitzlaff_bplus_com_br/EV9B6HSWI2pOnUiQl0WJnRcBnGE9BO6KpH0YVRFmtjj79A?e=2498U2).
+- [Apresentação de slides](https://bpluscombr-my.sharepoint.com/:p:/g/personal/samuel_fitzlaff_bplus_com_br/EV9B6HSWI2pOnUiQl0WJnRcBnGE9BO6KpH0YVRFmtjj79A?e=2498U2)
+- [Repositório do projeto](https://github.com/SamuelTobiasFitzlaff/minicurso-react)
+- [Página demo](https://minicurso.fitzlaff.com/)
 
 ## Links uteis:
 - Documentação vite: [vitejs.dev/guide](https://vitejs.dev/guide/)
