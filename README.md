@@ -6,6 +6,10 @@ Este repositório tem a finalidade de auxiliar durante a apresentação do minic
 - [Repositório do projeto](https://github.com/SamuelTobiasFitzlaff/minicurso-react)
 - [Página demo](https://minicurso.fitzlaff.com/)
 
+```
+npm install react-router-dom @mui/material @mui/styled-engine-sc @mui/icons-material @emotion/react @emotion/styled axios react-hook-form react-cookie react-toastify styled-components@5.3.11
+```
+
 ## Links uteis:
 - Node.js: [nodejs.org/en](https://nodejs.org/en)
 - Documentação vite: [vitejs.dev/guide](https://vitejs.dev/guide/)
