@@ -1,4 +1,8 @@
+
+
 # minicurso-react-utilitarios
+
+contato: samuel.fitzlaff@proton.me
 
 Este repositório tem a finalidade de auxiliar durante a apresentação do minicurso Aprendendo react.
 
