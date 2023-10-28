@@ -2,7 +2,9 @@
 
 # minicurso-react-utilitarios
 
-contato: samuel.fitzlaff@proton.me
+contato: 
+- samuel.fitzlaff@proton.me
+- tremldiogo@gmail.com
 
 Este repositório tem a finalidade de auxiliar durante a apresentação do minicurso Aprendendo react.
 
